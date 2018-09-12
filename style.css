@@ -1,0 +1,80 @@
+body{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;"
+  color: white;
+}
+
+nav{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color: black;
+  font-size: 18px;
+}
+
+#bannerimage {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+.photo{
+  display: flex;
+  float: left;
+  margin-left: 50px;
+  margin-right: auto;
+  justify-content: flex-start;
+}
+
+p{
+  font-weight: normal;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  width: auto;
+  padding: 25px;
+  margin: 50px;
+  background-color: #77787A;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+  color: white;
+  font-family: ;
+  font-size: 18px;
+}
+
+h1{
+  font-weight: normal;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: auto;
+  padding: 25px;
+  margin: 50px;
+  background-color: #77787A;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 36px;
+}
+
+h2{
+  font-weight: normal;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  width: auto;
+  padding: 25px;
+  margin: 50px;
+  background-color: #77787A;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000;
+  color: white;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 36px;
+}
